@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BuWeiSU
+- 👋 Hi, I’m @KnightsPlus
 - 👀 I’m interested in watching Olympics
 - 🌱 I’m currently learning Python and nlp
 - 💞️ I’m looking to collaborate on our NLP projects
